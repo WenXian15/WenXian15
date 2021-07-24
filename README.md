@@ -5,8 +5,6 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=WenXian15)
 
-I am a smart contract developer. I love cryptography and functional programming.
-
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
