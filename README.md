@@ -15,10 +15,8 @@ No Activity tracked this Week
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/WenXian15/);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: WXian15@outlook.my;
-- 📝 [Resume](https://wenxian.ihpapp.com/Resume.pdf).
 
 📈 **My GitHub Stats:**
 <p>
